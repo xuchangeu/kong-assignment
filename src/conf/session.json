@@ -1,0 +1,14 @@
+{
+    "session" : {
+        "20001" : {
+            "role" : "administrator",
+            "organization" : "org-111"
+        },
+        "20002" : {
+            "role" : "non-administrator",
+            "organization" : "org-111"
+        }
+        
+    }
+    
+}

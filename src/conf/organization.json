@@ -1,0 +1,20 @@
+{
+	"organization": {
+		"org-111": {
+			"linting-rule": [
+				"linting-111",
+				"linting-222",
+				"linting-333",
+				"fe298f67-be31-4973-9e85-b28bf3c63273"
+			],
+			"projects": {
+				"proj-111": {
+					"active": "linting-555"
+				},
+				"proj-222": {
+					"active": "linting-111"
+				}
+			}
+		}
+	}
+}

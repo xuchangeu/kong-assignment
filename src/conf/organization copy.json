@@ -1,0 +1,20 @@
+{
+    "organization" : {
+        "org-111" : {
+            "linting-rule" : [
+                "linting-111",
+                "linting-222",
+                "linting-333"
+            ],
+            "projects" : {
+                "proj-111" : {
+                    "active" : "linting-111"
+                },
+                "proj-222" : {
+                    "active" : ""
+                }
+            }
+        }  
+    }
+                 
+}
